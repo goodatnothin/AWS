@@ -12,7 +12,7 @@ AWS.config.update({
   var params = {
     Image: {
      S3Object: {
-      Bucket: "akshayaawsrekognisation", 
+      Bucket: "lakshawsrekognisation", 
       Name: "image-2.jpeg"
      }
     }
